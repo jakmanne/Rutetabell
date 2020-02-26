@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rutetabell/static/css/main.11c30420.chunk.css",
+    "main.js": "/Rutetabell/static/js/main.9af1c223.chunk.js",
+    "main.js.map": "/Rutetabell/static/js/main.9af1c223.chunk.js.map",
+    "runtime~main.js": "/Rutetabell/static/js/runtime~main.eeb55e4c.js",
+    "runtime~main.js.map": "/Rutetabell/static/js/runtime~main.eeb55e4c.js.map",
+    "static/js/2.fa24fe03.chunk.js": "/Rutetabell/static/js/2.fa24fe03.chunk.js",
+    "static/js/2.fa24fe03.chunk.js.map": "/Rutetabell/static/js/2.fa24fe03.chunk.js.map",
+    "index.html": "/Rutetabell/index.html",
+    "precache-manifest.44b14743abed9acce2af0e7e52acece8.js": "/Rutetabell/precache-manifest.44b14743abed9acce2af0e7e52acece8.js",
+    "service-worker.js": "/Rutetabell/service-worker.js",
+    "static/css/main.11c30420.chunk.css.map": "/Rutetabell/static/css/main.11c30420.chunk.css.map"
+  }
+}
