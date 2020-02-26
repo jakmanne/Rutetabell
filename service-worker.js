@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rutetabell/precache-manifest.44b14743abed9acce2af0e7e52acece8.js"
+  "/Rutetabell/precache-manifest.5e8e66d13c83388bf828d800e3c4f6e3.js"
 );
 
 self.addEventListener('message', (event) => {

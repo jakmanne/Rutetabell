@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d6b714ccc3e4f8dcdf7d508d4126c90",
+    "revision": "b6599fd3948dcdd19c732a211c059c30",
     "url": "/Rutetabell/index.html"
   },
   {
-    "revision": "fa5eb9b25a2544b471c9",
+    "revision": "8b16f893955f3e7d6e02",
     "url": "/Rutetabell/static/css/main.11c30420.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rutetabell/static/js/2.fa24fe03.chunk.js"
   },
   {
-    "revision": "fa5eb9b25a2544b471c9",
-    "url": "/Rutetabell/static/js/main.9af1c223.chunk.js"
+    "revision": "8b16f893955f3e7d6e02",
+    "url": "/Rutetabell/static/js/main.ba5c5c9b.chunk.js"
   },
   {
     "revision": "1cfc17ffefb317b1d185",
