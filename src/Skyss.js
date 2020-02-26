@@ -253,7 +253,7 @@ class Skyss extends React.Component {
       <div>
         {this.state.currentstop != null ?
           <div>
-            <h1>Skyss Rutetabell</h1>
+            <h1>Bybane Rutetabell</h1>
             <button className ="button button6" onClick={() => {this.changeLayout(this.state.showsettings)}}>{this.state.showsettings ? "Skjul" : "Innstillinger"} </button>
             <div className={this.state.showsettings ? "showsettings" : "hidesettings"}>
             <div> Velg stopp:
