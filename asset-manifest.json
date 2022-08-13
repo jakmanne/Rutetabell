@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rutetabell/static/css/main.11c30420.chunk.css",
-    "main.js": "/Rutetabell/static/js/main.ba5c5c9b.chunk.js",
-    "main.js.map": "/Rutetabell/static/js/main.ba5c5c9b.chunk.js.map",
+    "main.css": "/Rutetabell/static/css/main.e563def4.chunk.css",
+    "main.js": "/Rutetabell/static/js/main.00b50ad6.chunk.js",
+    "main.js.map": "/Rutetabell/static/js/main.00b50ad6.chunk.js.map",
     "runtime~main.js": "/Rutetabell/static/js/runtime~main.eeb55e4c.js",
     "runtime~main.js.map": "/Rutetabell/static/js/runtime~main.eeb55e4c.js.map",
-    "static/js/2.fa24fe03.chunk.js": "/Rutetabell/static/js/2.fa24fe03.chunk.js",
-    "static/js/2.fa24fe03.chunk.js.map": "/Rutetabell/static/js/2.fa24fe03.chunk.js.map",
+    "static/js/2.d83b8310.chunk.js": "/Rutetabell/static/js/2.d83b8310.chunk.js",
+    "static/js/2.d83b8310.chunk.js.map": "/Rutetabell/static/js/2.d83b8310.chunk.js.map",
     "index.html": "/Rutetabell/index.html",
-    "precache-manifest.5e8e66d13c83388bf828d800e3c4f6e3.js": "/Rutetabell/precache-manifest.5e8e66d13c83388bf828d800e3c4f6e3.js",
+    "precache-manifest.d29b609fe2ec188aa310f34f8f1ff058.js": "/Rutetabell/precache-manifest.d29b609fe2ec188aa310f34f8f1ff058.js",
     "service-worker.js": "/Rutetabell/service-worker.js",
-    "static/css/main.11c30420.chunk.css.map": "/Rutetabell/static/css/main.11c30420.chunk.css.map"
+    "static/css/main.e563def4.chunk.css.map": "/Rutetabell/static/css/main.e563def4.chunk.css.map"
   }
 }
